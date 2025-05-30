@@ -1,6 +1,7 @@
 # 🎮 NEON FRUIT CATCHER 
 
-![Game Screenshot](assets/screenshot.png) *(Replace with actual screenshot)*
+![Game Screenshot]![image](https://github.com/user-attachments/assets/17413032-2231-40b4-a2d4-2808e481eea7)
+
 
 A fast-paced arcade-style fruit-catching game with **neon aesthetics** and **Star Wars-inspired backgrounds**. Dodge bombs, score points, and challenge your reflexes in two exciting game modes!
 
